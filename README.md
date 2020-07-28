@@ -28,8 +28,8 @@ Beside's Computer Science, I love photography.
 - 🌱 I’m currently learning Applied AI and ML
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: I started writing blogs, by publishing them on my own website [imrankhalid-tech](https://imrankhalid-tech.github.io/) in 2020
-- 📫 How to reach me: imrankhalid504@gmail.com or on LinkedIn : https://www.linkedin.com/in/usman-softwareengineer/
-- 📝[Resume](will be uploaded soon)
+- 📫 How to reach me: imrankhalid504@gmail.com or on LinkedIn : https://www.linkedin.com/in/imran-khalid114/
+- 📝[Resume](https://drive.google.com/file/d/1ZHjxXLwvbb6ZomhLpcGIL2uZ8is5gd8G/view?usp=sharing)
 
 **Languages and Tools:**
 
