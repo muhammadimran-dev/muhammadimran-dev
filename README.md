@@ -1,15 +1,15 @@
-### Hey 👋🏽, I'm [Imran!](https://imrankhalid-tech.github.io/)
+### Hey 👋🏽, I'm [Imran!](https://theimrankhalid.com/)
 
 <br/>
 
 
-<a href="https://twitter.com/mimran_official">
+<a href="https://twitter.com/theimrankhalid">
 <img align="left" alt="Muhammad Imran | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/imran-khalid114/">
+<a href="https://www.linkedin.com/in/theimrankhalid">
 <img align="left" alt="Imran's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/imran.khalid.official/">
+<a href="https://www.instagram.com/theimrankhalid/">
 <img align="left" alt="Imran's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
@@ -27,8 +27,8 @@ I have passion about learning new technologies.
 - 👨🏽‍💻 I’m currently partcipating in as much Hackathons as I can
 - 🌱 I’m currently learning Applied AI and ML
 - 💬 Ask me about anything, I am happy to help
-- ⚡️ Fun-Fact: I started writing blogs, by publishing them on my own website [imrankhalid-tech](https://imrankhalid-tech.github.io/) in 2020
-- 📫 How to reach me: imrankhalid504@gmail.com or on LinkedIn : https://www.linkedin.com/in/imran-khalid114/
+- ⚡️ Fun-Fact: I started writing blogs, by publishing them on my own website [theimrankhalid](https://theimrankhalid.medium.com/) in 2019
+- 📫 How to reach me: imrankhalid504@gmail.com or on LinkedIn : https://www.linkedin.com/in/theimrankhalid/
 - 📝[Resume](https://drive.google.com/file/d/1ZHjxXLwvbb6ZomhLpcGIL2uZ8is5gd8G/view?usp=sharing)
 
 **Languages and Tools:**
