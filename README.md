@@ -16,7 +16,7 @@
 
 <br>
 <br>
-Hi, I'm Muhammad Imran, a Full Stack Developer and Azure Cloud Developer 🚀 from Lahore, Pakistan. I am a Computer Scientist and very passionate to work in software development projects. Also, I'm a community Member at Microsoft Community-Lahore and AWS Community Pakistan.🙍🏽‍ 
+Hi, I'm Muhammad Imran, a Full Stack Developer and Azure Cloud Developer 🚀 from Lahore, Pakistan. I am Microsoft certified Azure Developer Associate. I am a Computer Scientist and very passionate to work in software development projects. Also, I'm a community Member at Microsoft Community-Lahore and AWS Community Pakistan.🙍🏽‍ 
 I have passion about learning new technologies. 
  Beside's Computer Science, I love photography.
 
