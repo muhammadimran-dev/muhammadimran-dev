@@ -3,33 +3,33 @@
 <br/>
 
 
-<a href="https://twitter.com/theimrankhalid">
+<a href="https://twitter.com/mimran_dev">
 <img align="left" alt="Muhammad Imran | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/theimrankhalid">
-<img align="left" alt="Imran's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/muhammadimran-dev">
+<img align="left" alt="Muhammad Imran | LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/theimrankhalid/">
-<img align="left" alt="Imran's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/muhammadimran.dev/">
+<img align="left" alt="Muhammad Imran | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 
 <br>
 <br>
-Hi, I'm Muhammad Imran, a Full Stack Developer and Azure Cloud Developer 🚀 from Lahore, Pakistan. I am Microsoft certified Azure Developer Associate. I am a Computer Scientist and very passionate to work in software development projects. Also, I'm a community Member at Microsoft Community-Lahore and AWS Community Pakistan.🙍🏽‍ 
+Hi, I'm Muhammad Imran, Azure Cloud Engineer and Microsoft Certified Azure Solution Architect Expert. Moreover, I am also Microsoft Certified Trainer (MCT) and Innovative Educator (MIE). Currently designing, developing and administering cloud solutions by using azure services. Also providing trainings to IT professionals with hands on labs for Azure Cloud.🙍🏽‍ 
 I have passion about learning new technologies. 
- Beside's Computer Science, I love photography.
+Beside's Computer Science, I love photography.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently partcipating in as much Hackathons as I can
-- 🌱 I’m currently learning Applied AI and ML
+- 🌱 I’m currently practicing cloud designs and architectures
 - 💬 Ask me about anything, I am happy to help
-- ⚡️ Fun-Fact: I started writing blogs, by publishing them on my own website [theimrankhalid](https://theimrankhalid.medium.com/) in 2019
-- 📫 How to reach me: imrankhalid504@gmail.com or on LinkedIn : https://www.linkedin.com/in/theimrankhalid/
-- 📝[Resume](https://drive.google.com/file/d/1ZHjxXLwvbb6ZomhLpcGIL2uZ8is5gd8G/view?usp=sharing)
+- ⚡️ Fun-Fact: I started writing blogs, by publishing them on my own website [muhammadimran.me](https://muhammadimran.me/) in 2019
+- 📫 How to reach me: info@muhammadimran.me or on LinkedIn : https://www.linkedin.com/in/muhammadimran-dev/
+- 📝[Resume](https://drive.google.com/file/d/19eAAlcLonn9biLH-NqmMqtkyr25c6BPK/view)
 
 **Languages and Tools:**
 
@@ -40,4 +40,4 @@ I have passion about learning new technologies.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![imran's github stats](https://github-readme-stats.vercel.app/api?username=imrankhalid-tech&show_icons=true&hide_border=true)
+![Muhammad Imran's github stats](https://github-readme-stats.vercel.app/api?username=muhammadimran-dev&show_icons=true&hide_border=true)
